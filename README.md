@@ -184,7 +184,7 @@ NetGuard został zaprojektowany z myślą o prywatności:
 
 ## Licencja
 
-MIT License — używaj, modyfikuj, dystrybuuj swobodnie.
+BLS 1.1 License - szczegóły w pliku LICENCE
 
 ---
 
