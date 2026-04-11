@@ -184,7 +184,7 @@ NetGuard został zaprojektowany z myślą o prywatności:
 
 ## Licencja
 
-BLS 1.1 License - szczegóły w pliku LICENCE
+BSL 1.1 License - tylko do użytku domowego - szczegóły w pliku LICENCE
 
 ---
 
